@@ -1,10 +1,6 @@
 # Alpha Trench for Safari
 
 <p align="center">
-  <img src="docs/at-meets-mac-hero.png" alt="Alpha Trench Meets Mac — paper Instant Trade for Safari" width="100%" />
-</p>
-
-<p align="center">
   <strong>The Alpha Tek trench client, packed for Safari on Mac.</strong><br />
   <sub>Unsigned developer preview · Safari 18+ · Paper first · Same product as Chrome</sub>
 </p>
@@ -35,7 +31,8 @@ Development source remains private. Safari packages are delivered through an aut
 - **Not** the Mac App Store listing yet  
 - **Not** a different trading engine  
 - Historical preview 0.9.239 was packed from the Chromium client  
-- Paper Instant Trade, Alpha Guard, Mint Intel, journal, Trade Replay  
+- Paper Instant Trade, Alpha Guard, Mint Intel, journal, **Trade Replay** (platform history when wallet linked)  
+- **Trench Cast / Market Replay / Wallet Replay** on [AlphaTek.App](https://www.alphatek.app) — web Theater  
 - **Music Lite is Chrome-only** (Safari has no `offscreen` documents)  
 - Mainnet Instant Trade stays **locked**
 
