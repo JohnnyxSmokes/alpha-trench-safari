@@ -11,6 +11,18 @@
   <a href="https://www.AlphaTek.App/alpha-trench/safari"><img src="https://img.shields.io/badge/Download-AlphaTek.App-4285F4?style=for-the-badge&labelColor=0A0A0A" alt="Download from AlphaTek.App" /></a>
 </p>
 
+<p align="center">
+  <a href="https://www.virustotal.com/gui/file/062d514b36d29cbff053eb0b95e3d5353b78f3010e9d22cb3e676f3ef1eca7d1">
+    <img src="https://raw.githubusercontent.com/JohnnyxSmokes/ALPHA_NEW2/main/marketing/infographics/alpha-trench-virustotal-2026-08/atvt-02-dual-platform.png" alt="Alpha Trench Safari VirusTotal result — 0 malicious, 0 suspicious, 65 undetected" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Safari 0.9.310:</strong>
+  <a href="https://www.virustotal.com/gui/file/062d514b36d29cbff053eb0b95e3d5353b78f3010e9d22cb3e676f3ef1eca7d1">Open the Public VirusTotal Report</a>
+  · 0 malicious · 0 suspicious · 65 undetected
+</p>
+
 ---
 
 ## Why a separate repo?
@@ -39,6 +51,12 @@ Development source remains private. Safari packages are delivered through an aut
 Historical versions through 0.9.239 retain MIT. Future releases are proprietary Alpha Tek packages.
 
 Product updates and downloads live on [AlphaTek.App](https://www.AlphaTek.App/alpha-trench/safari).
+
+---
+
+## Linked Alpha Tek Intelligence
+
+Safari and Chromium share the same portal intelligence contract. Linked sessions can request Pump ecosystem context reconciled from PumpPortal WebSocket, Frontend V3 REST, and FluxBeam WebSocket/Moralis fallback—with Pump.fun and BONK/Raydium provenance kept separate.
 
 ---
 
