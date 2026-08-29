@@ -81,6 +81,10 @@ Product updates and downloads live on [AlphaTek.App](https://www.AlphaTek.App/al
 
 ---
 
+## Hear The Pad
+
+Product VO: [overlay-bumper.mp3](https://github.com/JohnnyxSmokes/alpha-trench/blob/main/assets/overlay-bumper.mp3) · live on [AlphaTek.App/alpha-trench/safari](https://www.AlphaTek.App/alpha-trench/safari)
+
 ## Download Alpha Trench for Safari
 
 - **Official Safari Download:** [AlphaTek.App/alpha-trench/safari](https://www.AlphaTek.App/alpha-trench/safari)
